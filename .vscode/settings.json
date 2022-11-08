@@ -26,7 +26,7 @@
     "python.linting.mypyEnabled": true,
 
     // Spell checker
-    "cSpell.language": "en",
+    "cSpell.language": "en-US,en",
     "cSpell.words": [
         "Appassionata",
         "capsys",
