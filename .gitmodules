@@ -7,3 +7,9 @@
 [submodule "src/fl_typing"]
 	path = src/fl_typing
 	url = https://github.com/MiguelGuthridge/fl_typing.git
+[submodule "src/--force"]
+	path = src/--force
+	url = https://github.com/MiguelGuthridge/fl_param_checker.git
+[submodule "src/-f"]
+	path = src/-f
+	url = https://github.com/MiguelGuthridge/fl_param_checker.git
