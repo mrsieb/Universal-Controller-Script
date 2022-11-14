@@ -1,10 +1,10 @@
 """
-devices > novation > sl > mk3
+devices > novation > sl > zeromk2
 
-Device definitions for SL Mk3 series
-
+Device definitions for ZeRO SL Mk2
+Firmware 1.3.14
 Authors:
-* Miguel Guthridge [hdsq@outlook.com.au, HDSQ#2154]
+* mrsieb [me@mrsieb.net]
 """
 
 __all__ = [

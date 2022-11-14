@@ -1,10 +1,10 @@
 """
-devices > novation > sl > mk3 > controls
+devices > novation > sl > zeromk2 > controls
 
-Controls used by Novation SL Mk3 controllers
+Controls used by Novation zeRo MK2 controllers
 
 Authors:
-* Miguel Guthridge [hdsq@outlook.com.au, HDSQ#2154]
+* mrsieb [me@mrsieb.net]
 
 This code is licensed under the GPL v3 license. Refer to the LICENSE file for
 more details.

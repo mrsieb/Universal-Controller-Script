@@ -175,6 +175,7 @@ class DeviceShadow:
         * `value` (`bool`): new minimal value
         """
         self._minimal = value
+        
 
     def setDebug(self, value: Optional[str]) -> None:
         """
